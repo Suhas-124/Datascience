@@ -1,3 +1,9 @@
 *.h5
 *.pkl
 *.csv
+# Add these paths to your .gitignore
+GEN AI/1.LangChain/python3.10/langage_models/.env
+GEN AI/1.LangChain/python3.10/langage_models/11.vector_stores/vector_stores.ipynb
+GEN AI/1.LangChain/python3.10/langage_models/12.Retrievers/langchain_retrievers.ipynb
+GEN AI/1.LangChain/python3.10/langage_models/langchain_code.ipynb
+GEN AI/1.LangChain/test_code.py
